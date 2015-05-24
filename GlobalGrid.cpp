@@ -1,14 +1,3 @@
-/* ***********************************************************
- * Build instructions
- * This file requires a proprietary library to build; as such
- * it is not included in the "make all" script.
- * To build this; you need a license to the proprietary
- * GlobalGrid networking protocol.
- * A license can be obtained from IDWNet Cloud Computing
- * by e-mailing the creator of this GIT repository.
- * GlobalGrid is currently compatible with Linux, Windows,
- * embedded and iOS systems.
- *************************************************************/
 
 #include <iostream>
 #include <GlobalGrid.h>
